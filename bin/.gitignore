@@ -1,0 +1,11 @@
+# Ignore compiled class files
+*.class
+
+# Ignore IDE settings (adjust based on your IDE)
+*.iml
+.idea/
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
