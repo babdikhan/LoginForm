@@ -60,7 +60,7 @@ public class LoginForm extends JFrame {
             }
         });
 
-        /* Cancel Button */
+        /*** Cancel Button ***/
         JButton btnCancel = new JButton("Cancel");
         btnCancel.setFont(mainFont);
         btnCancel.addActionListener(new ActionListener() {
